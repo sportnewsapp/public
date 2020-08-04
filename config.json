@@ -1,20 +1,5 @@
 [
-    {
-        "title":"Home",
-        "drawable":"News-32",
-        "submenu":"Stylisheve Sections",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"Home",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://stylisheve.com/wp-json/wp/v2/"
-                ]
-            }
-        ]
-    },
+    
     
     {
         "title":"Home Design",
