@@ -1,0 +1,452 @@
+[
+    {
+        "title":"Home",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Home",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "title":"Home Design",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Home Design",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58332"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Fashion",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Fashion",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58331"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Hairstyles",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Hairstyles",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58318"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Wedding Inspiration",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Wedding Inspiration",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58333"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Outdoors",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Outdoors",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "4965"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Beauty",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Beauty",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "5310"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Travel",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Travel",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "6014"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"General",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"General",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58334"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Jewelry",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Jewelry",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "3948"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Holidays",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Holidays",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58336"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Outfits",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Outfits",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58335"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Baby",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Baby",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58345"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Photography",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Photography",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58347"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"DIY",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"DIY",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58343"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"WOW",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"WOW",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58379"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Art",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Art",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58348"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Pets & Animals",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Pets & Animals",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58346"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Celebrities",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Celebrities",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58449"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Party Ideas",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Party Ideas",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "2747"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Cuisine",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Cuisine",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58344"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"WTF",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"WTF",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58380"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Uncategorized",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Uncategorized",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58378"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Health",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Health",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58645"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Pregnancy",
+        "drawable":"News-32",
+        "submenu":"Stylisheve Sections",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Pregnancy",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://stylisheve.com/wp-json/wp/v2/",
+                    "58450"
+                ]
+            }
+        ]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]
